@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Repository</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="headerimg">
+        <img src="https://i.ibb.co/7kXGVTc/Whats-App-Image-2024-02-15-at-18-42-36-5907f190.jpg" style="width:100%; padding: 5px;" >
+    </div>
+
+    <div class="container">
+        <div class="search-bar">
+            <input type="text" id="searchInput" class="form-control" placeholder="Search video by keywords...">
+            <button onclick="searchVideos()" class="btn btn-dark btn-sm">Search</button>
+        </div>
+        <div class="filter-buttons">
+            <button onclick="filterVideos('Interviews')" class="btn btn-dark btn-sm">Interviews</button>
+            <button onclick="filterVideos('Match Highlights')" class="btn btn-dark btn-sm">Match Highlights</button>
+
+            <!-- Add more buttons for other video types -->
+        </div>
+        <div id="videoContainer" class="video-container">
+            <!-- Video items will be dynamically added here -->
+        </div>
+    </div>
+    
+
+    <script src="scripts.js"></script>
+</body>
+</html>
