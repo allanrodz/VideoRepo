@@ -3,6 +3,7 @@ const videos = [
     { title: 'Evan Shefflin - St Canice’s Credit Union Senior League Draw', type: 'Interviews', src: 'https://player.vimeo.com/video/917408285?h=ee8f0d8075' },
     { title: 'Tom Aylward - St Canice’s Credit Union Senior League Draw', type: 'Interviews', src: 'https://player.vimeo.com/video/917407783?h=63f1456ccd' },
     { title: 'Padraig Walsh - St Canice’s Credit Union Senior League Draw', type: 'Interviews', src: 'https://player.vimeo.com/video/917406969?h=f56d078354' },
+    { title: 'Jackie Tyrrell', type: 'Interviews', src: 'https://player.vimeo.com/video/922915605?h=77f94dfb08' },
 
     // Add more video objects here
 ];
