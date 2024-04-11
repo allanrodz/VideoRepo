@@ -4,6 +4,8 @@ const videos = [
     { title: 'Tom Aylward - St Canice’s Credit Union Senior League Draw', type: 'Interviews', src: 'https://player.vimeo.com/video/917407783?h=63f1456ccd' },
     { title: 'Padraig Walsh - St Canice’s Credit Union Senior League Draw', type: 'Interviews', src: 'https://player.vimeo.com/video/917406969?h=f56d078354' },
     { title: 'Jackie Tyrrell', type: 'Interviews', src: 'https://player.vimeo.com/video/922915605?h=77f94dfb08' },
+    { title: 'Exclusive Interview with Tom Hogan - Kilkenny Celtic Challenge Manager', type: 'Interviews', src: 'https://player.vimeo.com/video/933444374?h=331665a6d4' },
+
 
     // Add more video objects here
 ];
