@@ -5,6 +5,8 @@ const videos = [
     { title: 'Padraig Walsh - St Canice’s Credit Union Senior League Draw', type: 'Interviews', src: 'https://player.vimeo.com/video/917406969?h=f56d078354' },
     { title: 'Jackie Tyrrell', type: 'Interviews', src: 'https://player.vimeo.com/video/922915605?h=77f94dfb08' },
     { title: 'Exclusive Interview with Tom Hogan - Kilkenny Celtic Challenge Manager', type: 'Interviews', src: 'https://player.vimeo.com/video/933444374?h=331665a6d4' },
+    { title: 'U19 Development League 2024 Final', type: 'MatchHighlights', src: 'https://vimeo.com/event/4240331/embed/11160048ac' },
+
 
 
     // Add more video objects here
