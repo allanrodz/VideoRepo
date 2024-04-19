@@ -6,7 +6,7 @@ const videos = [
     { title: 'Jackie Tyrrell', type: 'Interviews', src: 'https://player.vimeo.com/video/922915605?h=77f94dfb08' },
     { title: 'Exclusive Interview with Tom Hogan - Kilkenny Celtic Challenge Manager', type: 'Interviews', src: 'https://player.vimeo.com/video/933444374?h=331665a6d4' },
     { title: 'U19 Development League 2024 Final', type: 'MatchHighlights', src: 'https://vimeo.com/event/4240331/embed/11160048ac' },
-
+    { title: 'Niall Bergin Interview - Kilkenny Minor Manager', type: 'Interviews', src: 'https://player.vimeo.com/video/936256747?h=c0abcdf463' },
 
 
     // Add more video objects here
